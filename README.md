@@ -21,7 +21,7 @@ I'm a Brazilian developer, passionate about programming. I'm a front-end web dev
 <a href="https://www.instagram.com/matheusdzn1/">  
 <img 
     style="display: block; 
-           margin-left: auto;
+          
            
            width: 4%;
 	   left: 50%;
@@ -34,7 +34,7 @@ I'm a Brazilian developer, passionate about programming. I'm a front-end web dev
 <a href="https://www.linkedin.com/in/matheus-nicolas-pereira-firmino-0849a0231/">  
 <img 
     style="display: block; 
-           margin-left: auto;
+           
            
            width: 4%;
 	   left: 50%;
