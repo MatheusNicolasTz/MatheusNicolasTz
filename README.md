@@ -1,11 +1,5 @@
 <!-- SECTION 01: BANNER -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=250&section=header&text=Matheus%20Nicolas&fontSize=70&fontAlignY=35&desc=Front-End%20Developer%20Jr/UX/UI%20Designer&descAlignY=50" />
-       
-
-<!-- RETRO VISITOR COUNTER -->  
-<p align="center" justify="center">   
-  <img src="https://profile-counter.glitch.me/BraianMendes/count.svg" />  
-</p>
 
 
 <!-- SECTION 02: Welcome Message -->
