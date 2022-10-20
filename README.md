@@ -22,9 +22,10 @@ I'm a Brazilian developer, passionate about programming. I'm a front-end web dev
 <img 
     style="display: block; 
            margin-left: auto;
-           margin-right: auto;
+           
            width: 4%;
-	   "
+	   left: 50%;
+    	   margin-right: -50%"
     src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/2048px-Instagram_icon.png" 
     alt="Instagram">
 </img>
@@ -34,9 +35,10 @@ I'm a Brazilian developer, passionate about programming. I'm a front-end web dev
 <img 
     style="display: block; 
            margin-left: auto;
-           margin-right: auto;
+           
            width: 4%;
-	   "
+	   left: 50%;
+    	   margin-right: -50%"
     src="https://cdn-icons-png.flaticon.com/512/174/174857.png" 
     alt="Linkedin">
 </img>
