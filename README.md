@@ -23,8 +23,9 @@ I'm a Brazilian developer, passionate about programming. I'm a front-end web dev
     style="display: block; 
            margin-left: auto;
            margin-right: auto;
-           width: 10%;"
-    src="https://img.shields.io/badge/-Instagram-black?style=for-the-badge&logo=instagram" 
+           width: 10%;
+	   align-items: center;"
+    src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/2048px-Instagram_icon.png" 
     alt="Instagram">
 </img>
 </a>
@@ -34,8 +35,9 @@ I'm a Brazilian developer, passionate about programming. I'm a front-end web dev
     style="display: block; 
            margin-left: auto;
            margin-right: auto;
-           width: 10%;"
-    src="https://img.shields.io/badge/-Linkedin-%230A66C2?style=for-the-badge&logo=linkedin" 
+           width: 10%;
+	   align-items: center;"
+    src="https://cdn-icons-png.flaticon.com/512/174/174857.png" 
     alt="Linkedin">
 </img>
 </a>
