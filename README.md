@@ -4,7 +4,7 @@
 
 <!-- SECTION 02: Welcome Message -->
 <div>
-<b>Hello there! Here you will see a little of me, a little of my history, projects, study notes, and how to call me for a chat.</b>
+<b>Hi! Here you will see a little of me, a little of my history</b>
 <br/>
 
 <h2>About Me</h2>
@@ -13,7 +13,7 @@
 I'm a Brazilian developer, passionate about programming. I'm a front-end web developer. I am currently studying Javascript, ReactJs, Typescript and among other languages ​​and in 2023 I will start a software engineering college, I have been a Graphic Designer for almost 2 years and I am passionate about technology! I've done big projects as a designer but it's time to do big projects as a Software Engineer!
 <!-- It was a huge growth, I had incredible moments, and now I have a lot of friends that I carry as a family. -->
 
-<div align="center"><b>Lets connect. I'll answer very quickly.</b></div>
+<div align="center"><b>Let's work together? I will respond very quickly.</b></div>
 
 <br/>
 
