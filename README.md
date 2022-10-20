@@ -10,7 +10,7 @@
 <h2>About Me</h2>
 
 <!-- I truly believe in helping people with technology and code. <br><br> -->
-I'm a developer from Brazil, digital nomad and passionate about programming. I'm a full-stack developer focused on web and mobile. But I also work as an IoT, AI and Blockchain developer. I study in depth in these areas of work, and I have currently started higher education courses for cybersecurity and game development. I position myself as a digital solutions engineer not being tied to a language or technology, even though I have specialized in Javascript and Python technologies, but any challenge I will be willing to dedicate myself to studying, overcoming and creating amazing things. <br><br>
+I'm a Brazilian developer, passionate about programming. I'm a front-end web developer. I am currently studying Javascript, ReactJs, Typescript and among other languages ​​and in 2023 I will start a software engineering college, I have been a Graphic Designer for almost 2 years and I am passionate about technology! I've done big projects as a designer but it's time to do big projects as a Software Engineer!
 <!-- It was a huge growth, I had incredible moments, and now I have a lot of friends that I carry as a family. -->
 
 <div align="center"><b>Lets connect. I'll answer very quickly.</b></div>
