@@ -24,7 +24,7 @@ I'm a Brazilian developer, passionate about programming. I'm a front-end web dev
            margin-left: auto;
            margin-right: auto;
            width: 5%;
-	   align-items: center;"
+	   text-align: center;"
     src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/2048px-Instagram_icon.png" 
     alt="Instagram">
 </img>
@@ -36,7 +36,7 @@ I'm a Brazilian developer, passionate about programming. I'm a front-end web dev
            margin-left: auto;
            margin-right: auto;
            width: 5%;
-	   align-items: center;"
+	   text-align: center;"
     src="https://cdn-icons-png.flaticon.com/512/174/174857.png" 
     alt="Linkedin">
 </img>
