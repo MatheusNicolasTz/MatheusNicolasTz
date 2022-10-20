@@ -18,18 +18,7 @@ I'm a Brazilian developer, passionate about programming. I'm a front-end web dev
 <br/>
 
 	
-<div  align="center" style="display: flex;  align-items: center;  justify-content: center;" >
-<a href="https://api.whatsapp.com/send?phone=5537991512954">  
-<img 
-    style="display: block; 
-           margin-left: auto;
-           margin-right: auto;
-           width: 10%;"
-    src="https://img.shields.io/badge/-Hire%20me-blue?style=for-the-badge" 
-    alt="Hire me">
-</img>
-</a>
-<a href="https://www.instagram.com/braian.tech/">  
+<a href="https://www.instagram.com/matheusdzn1/">  
 <img 
     style="display: block; 
            margin-left: auto;
@@ -39,17 +28,8 @@ I'm a Brazilian developer, passionate about programming. I'm a front-end web dev
     alt="Instagram">
 </img>
 </a>
-<a href="https://www.facebook.com/braianmtech">  
-<img 
-    style="display: block; 
-           margin-left: auto;
-           margin-right: auto;
-           width: 10%;"
-    src="https://img.shields.io/badge/-Instagram-black?style=for-the-badge&logo=facebook" 
-    alt="Facebook">   
-</img>
-</a>
-<a href="https://www.linkedin.com/in/braianmendes/">  
+
+<a href="https://www.linkedin.com/in/matheus-nicolas-pereira-firmino-0849a0231/">  
 <img 
     style="display: block; 
            margin-left: auto;
